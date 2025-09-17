@@ -20,7 +20,6 @@ By incorporating chatbots like ChatGPT into financial customer care services, th
 2. Optimising regulatory and compliance tasks
 LLM-based technologies can be utilized for things like as document analysis to help with regulatory and compliance paperwork. LLMs may also automate monitoring and reporting functions, allowing financial organizations to create pipelines that require little human interaction.
 
-[教授观点丨张晓燕：金融领域正迎来大语言模型的巨大机遇](https://zhuanlan.zhihu.com/p/660477891)  
 [How can LLMs bring value to the financial industry?](https://www.turintech.ai/llms-financial-industry/)
 
 ## LLMs in Law
@@ -31,8 +30,6 @@ Key tasks in the legal field are finding relevant precedents, answering legal qu
 2. Legal document generation: The legal model can use its powerful text generation capabilities to help users draft various legal documents, such as judgments, rulings, complaints, replies, contracts, etc. The legal model can generate documents that comply with legal specifications and formats based on key information provided by users, and provide necessary modification and optimization suggestions.
 
 [Top 5 applications of Large Language Models (LLMs) in legal practice](https://medium.com/jurdep/top-5-applications-of-large-language-models-llms-in-legal-practice-d29cde9c38ef)  
-[大语言模型的挑战与应用（十三）：法律领域应用](https://zhuanlan.zhihu.com/p/649815240)  
-[梳理中国AI法律大模型都有哪些？](https://zhuanlan.zhihu.com/p/640338124)
 
 
 
